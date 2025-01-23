@@ -1,0 +1,13 @@
+C:\Users\TSHIRELETSO\source\repos\entleproject\entleproject\bin\Debug\entleproject.exe.config
+C:\Users\TSHIRELETSO\source\repos\entleproject\entleproject\bin\Debug\entleproject.exe
+C:\Users\TSHIRELETSO\source\repos\entleproject\entleproject\bin\Debug\entleproject.pdb
+C:\Users\TSHIRELETSO\source\repos\entleproject\entleproject\obj\Debug\entleproject.csproj.AssemblyReference.cache
+C:\Users\TSHIRELETSO\source\repos\entleproject\entleproject\obj\Debug\entleproject.Form1.resources
+C:\Users\TSHIRELETSO\source\repos\entleproject\entleproject\obj\Debug\entleproject.Form2.resources
+C:\Users\TSHIRELETSO\source\repos\entleproject\entleproject\obj\Debug\entleproject.Form3.resources
+C:\Users\TSHIRELETSO\source\repos\entleproject\entleproject\obj\Debug\entleproject.Properties.Resources.resources
+C:\Users\TSHIRELETSO\source\repos\entleproject\entleproject\obj\Debug\entleproject.csproj.GenerateResource.cache
+C:\Users\TSHIRELETSO\source\repos\entleproject\entleproject\obj\Debug\entleproject.csproj.CoreCompileInputs.cache
+C:\Users\TSHIRELETSO\source\repos\entleproject\entleproject\obj\Debug\entleproject.exe
+C:\Users\TSHIRELETSO\source\repos\entleproject\entleproject\obj\Debug\entleproject.pdb
+C:\Users\TSHIRELETSO\source\repos\entleproject\entleproject\obj\Debug\entleproject.Form4.resources
